@@ -14,4 +14,6 @@ Hope u like it!!
   <img src="/demo/2.png" width="350" title="Walkthrough">
   <img src="/demo/3.png" width="350" title="Login">
   <img src="/demo/4.png" width="350" title="SignUp">
+  <img src="/demo/5.png" width="350" title="Main">
+  <img src="/demo/6.png" width="350" title="OrderCoffee">
 </p>
