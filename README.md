@@ -7,4 +7,4 @@ This is just a simple android Application that contain Splashscreen, Intro slide
 
 Hope u like it!!
 
-[alt text](https://github.com/mrpotensial/simpleapp/demo/1.jpeg)
+[alt text](https://github.com/mrpotensial/simpleapp/tree/master/demo/1.jpeg)
